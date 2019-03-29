@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 54" width="68" height="54">
+	<defs>
+		<image width="1920" height="1016" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAP4AQMAAAAGUnM6AAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAQRJREFUeJztwTEBAAAAwqD1T+1rCKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4A7ylAAFoRVQxAAAAAElFTkSuQmCC"/>
+		<image width="266" height="63" id="img2" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNjYgNjMiIHdpZHRoPSIyNjYiIGhlaWdodD0iNjMiPgoJPGRlZnM+CgkJPGNsaXBQYXRoIGNsaXBQYXRoVW5pdHM9InVzZXJTcGFjZU9uVXNlIiBpZD0iY3AxIj4KCQkJPHBhdGggZD0iTTAgMEwyNjYgMEwyNjYgNjNMMCA2M1oiIC8+CgkJPC9jbGlwUGF0aD4KCTwvZGVmcz4KCTxzdHlsZT4KCQl0c3BhbiB7IHdoaXRlLXNwYWNlOnByZSB9CgkJLnNocDAgeyBmaWxsOiAjMjhhOWUwIH0gCgkJLnNocDEgeyBmaWxsOiAjMmQzMjM2IH0gCgkJLnNocDIgeyBmaWxsOiAjMjE1Mzk4IH0gCgk8L3N0eWxlPgoJPGcgaWQ9IlBhZ2UgMSIgY2xpcC1wYXRoPSJ1cmwoI2NwMSkiPgoJCTxwYXRoIGlkPSJQYXRoIDEiIGNsYXNzPSJzaHAwIiBkPSJNMjcuMiwzOC45NWwtMjcuMiwtMTEuOXY5LjFsMjcuMiwxMS44NXpNMy4xNSwyNS43bDEwLjM1LDQuNTVsMTMuNywtNnYtOS4wNXpNNTIuOCwzOC45NXY5LjA1bDI3LjIsLTExLjg1di05LjF6TTc2LjgsMjUuN2wtMjQsLTEwLjV2OS4wNWwxMy43LDZ6TTE4MywyMi4xNWMwLjQsMC40NyAwLjYsMC45OCAwLjYsMS41NWMwLDAuNSAtMC4xMywwLjk4IC0wLjQsMS40NWMtMC4yNywwLjQ3IC0wLjY1LDEgLTEuMTUsMS42Yy0wLjUsMC42IC0xLjEsMS4zIC0xLjgsMi4xbC03LjEsOC42NXYyLjc1aDE2LjZ2LTQuN2gtOC4xNWwzLjE1LC0zLjhjMS4xMywtMS4zMyAyLjA1LC0yLjQ3IDIuNzUsLTMuNGMwLjcsLTAuOTMgMS4yMiwtMS43OCAxLjU1LC0yLjU1YzAuMzMsLTAuNzcgMC41LC0xLjUzIDAuNSwtMi4zYzAsLTEuMyAtMC4zMywtMi40OCAtMSwtMy41NWMtMC42NywtMS4xIC0xLjYzLC0xLjk3IC0yLjksLTIuNmMtMS4yNywtMC42NyAtMi44MiwtMSAtNC42NSwtMWMtMS43NywwIC0zLjI3LDAuMzMgLTQuNSwxYy0xLjIzLDAuNjcgLTIuMTcsMS42IC0yLjgsMi44Yy0wLjY3LDEuMTcgLTEuMDIsMi41MyAtMS4wNSw0LjFoNS41NWMwLjEsLTAuOSAwLjM4LC0xLjU4IDAuODUsLTIuMDVjMC41LC0wLjUgMS4xNywtMC43NyAyLC0wLjhjMC45MywwLjAzIDEuNTgsMC4yOCAxLjk1LDAuNzV6IiAvPgoJCTxwYXRoIGlkPSJQYXRoIDIiIGNsYXNzPSJzaHAxIiBkPSJNMjIyLjk1LDIzLjk1YzAsLTEuNTcgMC40LC0yLjkyIDEuMiwtNC4wNWMwLjc3LC0xLjEzIDEuODUsLTIuMDIgMy4yNSwtMi42NWMxLjM3LC0wLjYgMi45OCwtMC45IDQuODUsLTAuOWMwLjk3LC0wLjAzIDEuOTgsMC4wNyAzLjA1LDAuM2MxLjEsMC4yMyAyLjE1LDAuNjMgMy4xNSwxLjJjMSwwLjU3IDEuODMsMS4zNyAyLjUsMi40YzAuNywxIDEuMTMsMi4yOCAxLjMsMy44NWgtNS44NWMtMC4xMywtMC44NyAtMC41LC0xLjU3IC0xLjEsLTIuMWMtMC42MywtMC41NyAtMS41MywtMC44NSAtMi43LC0wLjg1Yy0xLDAgLTEuOCwwLjIgLTIuNCwwLjZjLTAuNiwwLjQgLTAuOSwwLjk4IC0wLjksMS43NWMwLDAuNjMgMC4yMiwxLjEyIDAuNjUsMS40NWMwLjQ3LDAuMzMgMS4xMywwLjU4IDIsMC43NWwzLjMsMC43NWMxLjQzLDAuMyAyLjY3LDAuNzIgMy43LDEuMjVjMS4wNywwLjUzIDEuODgsMS4yMyAyLjQ1LDIuMWMwLjU3LDAuOSAwLjg3LDIuMDIgMC45LDMuMzVjLTAuMDMsMS41NyAtMC40NSwyLjkyIC0xLjI1LDQuMDVjLTAuOCwxLjEzIC0xLjkyLDIgLTMuMzUsMi42Yy0xLjQ3LDAuNiAtMy4xNywwLjkyIC01LjEsMC45NWMtMS44LDAgLTMuNDUsLTAuMjggLTQuOTUsLTAuODVjLTEuNTMsLTAuNiAtMi44LC0xLjUgLTMuOCwtMi43Yy0xLC0xLjIzIC0xLjYsLTIuODIgLTEuOCwtNC43NWg1LjhjMC4yLDEuMDcgMC43MiwxLjg4IDEuNTUsMi40NWMwLjg3LDAuNTcgMS45OCwwLjg3IDMuMzUsMC45YzEuMSwtMC4wMyAxLjkyLC0wLjIyIDIuNDUsLTAuNTVjMC41NywtMC4zNyAwLjg1LC0wLjg4IDAuODUsLTEuNTVjMC4wMywtMC40IC0wLjEzLC0wLjc4IC0wLjUsLTEuMTVjLTAuMzMsLTAuMzcgLTAuOTgsLTAuNjUgLTEuOTUsLTAuODVsLTMuODUsLTAuODVjLTIuMywtMC41IC00LjAyLC0xLjMgLTUuMTUsLTIuNGMtMS4xLC0xLjEzIC0xLjY1LC0yLjYzIC0xLjY1LC00LjV6TTI0Ni43NSwyMy45NWMwLC0xLjU3IDAuNCwtMi45MiAxLjIsLTQuMDVjMC43NywtMS4xMyAxLjg1LC0yLjAyIDMuMjUsLTIuNjVjMS4zNywtMC42IDIuOTgsLTAuOSA0Ljg1LC0wLjljMC45NywtMC4wMyAxLjk4LDAuMDcgMy4wNSwwLjNjMS4xLDAuMjMgMi4xNSwwLjYzIDMuMTUsMS4yYzEsMC41NyAxLjgzLDEuMzcgMi41LDIuNGMwLjcsMSAxLjEzLDIuMjggMS4zLDMuODVoLTUuODVjLTAuMTMsLTAuODcgLTAuNSwtMS41NyAtMS4xLC0yLjFjLTAuNjMsLTAuNTcgLTEuNTMsLTAuODUgLTIuNywtMC44NWMtMSwwIC0xLjgsMC4yIC0yLjQsMC42Yy0wLjYsMC40IC0wLjksMC45OCAtMC45LDEuNzVjMCwwLjYzIDAuMjIsMS4xMiAwLjY1LDEuNDVjMC40NywwLjMzIDEuMTMsMC41OCAyLDAuNzVsMy4zLDAuNzVjMS40MywwLjMgMi42NywwLjcyIDMuNywxLjI1YzEuMDcsMC41MyAxLjg4LDEuMjMgMi40NSwyLjFjMC41NywwLjkgMC44NywyLjAyIDAuOSwzLjM1Yy0wLjAzLDEuNTcgLTAuNDUsMi45MiAtMS4yNSw0LjA1Yy0wLjgsMS4xMyAtMS45MiwyIC0zLjM1LDIuNmMtMS40NywwLjYgLTMuMTcsMC45MiAtNS4xLDAuOTVjLTEuOCwwIC0zLjQ1LC0wLjI4IC00Ljk1LC0wLjg1Yy0xLjUzLC0wLjYgLTIuOCwtMS41IC0zLjgsLTIuN2MtMSwtMS4yMyAtMS42LC0yLjgyIC0xLjgsLTQuNzVoNS44YzAuMiwxLjA3IDAuNzIsMS44OCAxLjU1LDIuNDVjMC44NywwLjU3IDEuOTgsMC44NyAzLjM1LDAuOWMxLjEsLTAuMDMgMS45MiwtMC4yMiAyLjQ1LC0wLjU1YzAuNTcsLTAuMzcgMC44NSwtMC44OCAwLjg1LC0xLjU1YzAuMDMsLTAuNCAtMC4xMywtMC43OCAtMC41LC0xLjE1Yy0wLjMzLC0wLjM3IC0wLjk4LC0wLjY1IC0xLjk1LC0wLjg1bC0zLjg1LC0wLjg1Yy0yLjMsLTAuNSAtNC4wMiwtMS4zIC01LjE1LC0yLjRjLTEuMSwtMS4xMyAtMS42NSwtMi42MyAtMS42NSwtNC41ek0xOTUuNzUsMjIuMjVjMS4wNywtMS44MyAyLjUzLC0zLjI3IDQuNCwtNC4zYzEuODcsLTEuMDMgMy45OCwtMS41NyA2LjM1LC0xLjZjMi4xMywwLjAzIDQuMDMsMC40NyA1LjcsMS4zYzEuNjcsMC44NyAzLjAzLDIuMDUgNC4xLDMuNTVjMS4wMywxLjUzIDEuNjcsMy4zMiAxLjksNS4zNWgtNS45NWMtMC4zMywtMS40NyAtMC45OCwtMi42MiAtMS45NSwtMy40NWMtMSwtMC44NyAtMi4yOCwtMS4zIC0zLjg1LC0xLjNjLTEuMjcsMCAtMi4zOCwwLjMgLTMuMzUsMC45Yy0wLjk3LDAuNTcgLTEuNzMsMS4zNSAtMi4zLDIuMzVjLTAuNTMsMS4wMyAtMC44LDIuMiAtMC44LDMuNWMwLDEuMyAwLjI3LDIuNDcgMC44LDMuNWMwLjU3LDEgMS4zMywxLjc4IDIuMywyLjM1YzAuOTcsMC42IDIuMDgsMC45IDMuMzUsMC45YzEuNTcsMCAyLjg1LC0wLjQzIDMuODUsLTEuM2MwLjk3LC0wLjgzIDEuNjIsLTEuOTggMS45NSwtMy40NWg1Ljk1Yy0wLjIzLDIuMDMgLTAuODcsMy44MiAtMS45LDUuMzVjLTEuMDcsMS41IC0yLjQzLDIuNjggLTQuMSwzLjU1Yy0xLjY3LDAuODMgLTMuNTcsMS4yNyAtNS43LDEuM2MtMi4zNywtMC4wMyAtNC40OCwtMC41NyAtNi4zNSwtMS42Yy0xLjg3LC0xLjAzIC0zLjMzLC0yLjQ3IC00LjQsLTQuM2MtMS4wNywtMS44MyAtMS42MiwtMy45MyAtMS42NSwtNi4zYzAuMDMsLTIuMzcgMC41OCwtNC40NyAxLjY1LC02LjN6TTExOC4xLDIwLjg1YzAuOCwxLjMgMS4yLDIuODIgMS4yLDQuNTVjMCwxLjgzIC0wLjQzLDMuNDIgLTEuMyw0Ljc1Yy0wLjgzLDEuMzMgLTIuMDIsMi4zNSAtMy41NSwzLjA1Yy0xLjUzLDAuNzMgLTMuMzgsMS4xIC01LjU1LDEuMWgtMy4xdjUuOTVoLTUuODV2LTIzLjRoOS40NWMyLjAzLDAgMy43OCwwLjM1IDUuMjUsMS4wNWMxLjUsMC43IDIuNjUsMS42OCAzLjQ1LDIuOTV6TTEwOS4yNSwyMmgtMy40NXY3LjJoMy40NWMxLjMsMCAyLjMzLC0wLjMzIDMuMSwtMWMwLjczLC0wLjY3IDEuMTIsLTEuNiAxLjE1LC0yLjhjLTAuMDMsLTEuMDcgLTAuNDIsLTEuOSAtMS4xNSwtMi41Yy0wLjc3LC0wLjYgLTEuOCwtMC45IC0zLjEsLTAuOXpNMTQ3LjcsMTYuODVoOS40NWMyLjQ3LDAuMDMgNC42MywwLjUzIDYuNSwxLjVjMS45LDAuOTcgMy4zOCwyLjMzIDQuNDUsNC4xYzEuMSwxLjczIDEuNjUsMy43NSAxLjY1LDYuMDVjMCwyLjMzIC0wLjU1LDQuMzcgLTEuNjUsNi4xYy0xLjA3LDEuNzcgLTIuNTUsMy4xNSAtNC40NSw0LjE1Yy0xLjg3LDAuOTcgLTQuMDMsMS40NyAtNi41LDEuNWgtOS40NXpNMTU3LjE1LDIyLjFoLTMuNnYxMi45NWgzLjZjMS4yNywtMC4wMyAyLjQsLTAuMzMgMy40LC0wLjljMS4wMywtMC41NyAxLjgzLC0xLjMzIDIuNCwtMi4zYzAuNiwtMSAwLjksLTIuMTIgMC45LC0zLjM1YzAsLTEuMjMgLTAuMywtMi4zMyAtMC45LC0zLjNjLTAuNTcsLTAuOTcgLTEuMzcsLTEuNzIgLTIuNCwtMi4yNWMtMSwtMC41NyAtMi4xMywtMC44NSAtMy40LC0wLjg1ek0xNDEuMywyMC4yNWMwLjcsMSAxLjEzLDIuMjggMS4zLDMuODVoLTUuODVjLTAuMTMsLTAuODcgLTAuNSwtMS41NyAtMS4xLC0yLjFjLTAuNjMsLTAuNTcgLTEuNTMsLTAuODUgLTIuNywtMC44NWMtMSwwIC0xLjgsMC4yIC0yLjQsMC42Yy0wLjYsMC40IC0wLjksMC45OCAtMC45LDEuNzVjMCwwLjYzIDAuMjIsMS4xMiAwLjY1LDEuNDVjMC40NywwLjMzIDEuMTMsMC41OCAyLDAuNzVsMy4zLDAuNzVjMS40MywwLjMgMi42NywwLjcyIDMuNywxLjI1YzEuMDcsMC41MyAxLjg4LDEuMjMgMi40NSwyLjFjMC41NywwLjkgMC44NywyLjAyIDAuOSwzLjM1Yy0wLjAzLDEuNTcgLTAuNDUsMi45MiAtMS4yNSw0LjA1Yy0wLjgsMS4xMyAtMS45MiwyIC0zLjM1LDIuNmMtMS40NywwLjYgLTMuMTcsMC45MiAtNS4xLDAuOTVjLTEuOCwwIC0zLjQ1LC0wLjI4IC00Ljk1LC0wLjg1Yy0xLjUzLC0wLjYgLTIuOCwtMS41IC0zLjgsLTIuN2MtMSwtMS4yMyAtMS42LC0yLjgyIC0xLjgsLTQuNzVoNS44YzAuMiwxLjA3IDAuNzIsMS44OCAxLjU1LDIuNDVjMC44NywwLjU3IDEuOTgsMC44NyAzLjM1LDAuOWMxLjEsLTAuMDMgMS45MiwtMC4yMiAyLjQ1LC0wLjU1YzAuNTcsLTAuMzcgMC44NSwtMC44OCAwLjg1LC0xLjU1YzAuMDMsLTAuNCAtMC4xMywtMC43OCAtMC41LC0xLjE1Yy0wLjMzLC0wLjM3IC0wLjk4LC0wLjY1IC0xLjk1LC0wLjg1bC0zLjg1LC0wLjg1Yy0yLjMsLTAuNSAtNC4wMiwtMS4zIC01LjE1LC0yLjRjLTEuMSwtMS4xMyAtMS42NSwtMi42MyAtMS42NSwtNC41YzAsLTEuNTcgMC40LC0yLjkyIDEuMiwtNC4wNWMwLjc3LC0xLjEzIDEuODUsLTIuMDIgMy4yNSwtMi42NWMxLjM3LC0wLjYgMi45OCwtMC45IDQuODUsLTAuOWMwLjk3LC0wLjAzIDEuOTgsMC4wNyAzLjA1LDAuM2MxLjEsMC4yMyAyLjE1LDAuNjMgMy4xNSwxLjJjMSwwLjU3IDEuODMsMS4zNyAyLjUsMi40eiIgLz4KCQk8cGF0aCBpZD0iUGF0aCAzIiBjbGFzcz0ic2hwMiIgZD0iTTM5LjYsMzkuNDVsMTcuODUsLTcuOGwtMTcuODUsLTcuNzVsLTE3Ljg1LDcuNzV6TTIxLjc1LDU1LjJsMTcuODUsNy44bDE3Ljg1LC03LjhsLTE3Ljg1LC03Ljc1ek0yMS43NSw4LjA1bDE3Ljg1LDcuOGwxNy44NSwtNy44bC0xNy44NSwtNy43NXoiIC8+Cgk8L2c+Cjwvc3ZnPg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f5f5f5 } 
+		.txt1 { font-size: 20px;line-height: 32px;fill: #2d3236;font-family: "Rubik";font-weight: 300;text-anchor: middle } 
+		.txt2 { font-size: 40px;letter-spacing: -1px;line-height: 52px;fill: #2d3236;font-family: "Rubik";font-weight: 400;text-anchor: middle } 
+		.shp3 { fill: #ffffff } 
+		.shp4 { fill: #cccccc } 
+		.txt5 { font-size: 20px;letter-spacing: 0px;line-height: 28px;fill: #2d3236;font-family: "Rubik";font-weight: 400;text-anchor: middle } 
+		.txt6 { font-size: 15px;line-height: 25px;fill: #808080;font-family: "Rubik";font-weight: 400;text-anchor: middle } 
+		.txt7 { font-size: 30px;letter-spacing: 1px;line-height: 28px;fill: #2d3236;font-family: "Rubik";font-weight: 400;text-anchor: middle } 
+		.shp8 { fill: #215398 } 
+		.txt9 { font-size: 20px;line-height: 32px;fill: #ffffff;font-family: "Rubik";font-weight: 300;text-anchor: middle } 
+		.txt10 { font-size: 40px;letter-spacing: -1px;line-height: 52px;fill: #ffffff;font-family: "Rubik";font-weight: 400;text-anchor: middle } 
+		.shp11 { fill: #b3b3b3 } 
+		.shp12 { fill: #ff3859 } 
+	</style>
+	<use id="background" href="#img1" x="-572" y="-362" />
+	<g id="CONTENT2">
+		<path id="Prostokąt 18" class="shp0" d="M-572,714h1920v-526h-1920z" />
+		<text id="Lorem ipsum dolor sit amet, consect etur adipiscing elit." style="opacity: 0.6;transform: matrix(1,0,0,1,388.669,302)" >
+			<tspan x="0" y="20" class="txt1">Lorem ipsum dolor sit amet, consect etur adipiscing elit.</tspan>
+		</text>
+		<text id="Heading" style="transform: matrix(1,0,0,1,387,277)" >
+			<tspan x="0" y="0" class="txt2">Heading</tspan>
+		</text>
+		<g id="#1">
+			<path id="Prostokąt 17" class="shp3" d="M-127,654h330v-228h-330z" />
+			<path id="Kształt 2" class="shp4" d="M32.94,557c-3.55,0 -6.42,2.97 -6.42,6.63c0,3.66 2.87,6.63 6.42,6.63c3.54,0 6.42,-2.97 6.42,-6.63c0,-3.66 -2.87,-6.63 -6.42,-6.63zM40.93,555.74c1.9,2.05 3.07,4.83 3.07,7.89c0,3.88 -1.88,7.3 -4.74,9.36c5.3,-1.69 9.68,-5.79 11.64,-10.77c2.71,-6.88 0.19,-12.06 -4.05,-16.76c0.13,0.61 0.2,1.24 0.2,1.89c0,3.98 -2.59,7.34 -6.12,8.39zM33.67,547.35c0,2.8 2.2,5.07 4.91,5.07c2.71,0 4.91,-2.27 4.91,-5.07c0,-2.8 -2.2,-5.07 -4.91,-5.07c-2.71,0 -4.91,2.27 -4.91,5.07zM24.48,570.98c-1.62,-1.99 -2.6,-4.55 -2.6,-7.35c0,-5.84 4.25,-10.65 9.74,-11.33c-0.94,-1.41 -1.49,-3.11 -1.49,-4.95c0,-4.82 3.79,-8.73 8.46,-8.73c0.39,0 0.76,0.03 1.14,0.08c-2.77,-2.46 -5.53,-4.96 -7.71,-7.7c1.11,11.97 -10.56,7.62 -14.88,18.64c-2.9,7.4 -0.29,16.54 7.34,21.32z" />
+			<text id="Heading" style="transform: matrix(1,0,0,1,38,481)" >
+				<tspan x="0" y="0" class="txt5">Heading</tspan>
+			</text>
+			<text id="Lorem ipsum dolor sit amet." style="transform: matrix(1,0,0,1,38.297,503)" >
+				<tspan x="0" y="15" class="txt6">Lorem ipsum dolor sit amet.</tspan>
+			</text>
+		</g>
+		<g id="#3">
+			<path id="Prostokąt 17" class="shp3" d="M573,654h330v-228h-330z" />
+			<text id="Ultra Mega Super Long  Heading" style="transform: matrix(1,0,0,1,738,481)" >
+				<tspan x="0" y="0" class="txt5">Ultra Mega Super Long </tspan>
+				<tspan x="0" y="22.4" class="txt5">Heading</tspan>
+			</text>
+			<text id="Lorem ipsum dolor sit amet, consect etur adipiscing elit. Aenea" style="transform: matrix(1,0,0,1,738.297,531)" >
+				<tspan x="0" y="15" class="txt6">Lorem ipsum dolor sit amet, consect</tspan>
+				<tspan x="0" y="31.8" class="txt6">etur adipiscing elit. Aenea uismod bibendum laoreet. Lorem ipsum dolor sit amet</tspan>
+			</text>
+		</g>
+		<g id="#2">
+			<path id="Prostokąt 17" class="shp3" d="M222,654h330v-228h-330z" />
+			<text id="Heading" style="transform: matrix(1,0,0,1,387,481)" >
+				<tspan x="0" y="0" class="txt5">Heading</tspan>
+			</text>
+			<text id="Lorem ipsum dolor sit amet, consect etur adipiscing elit. Aenea" style="transform: matrix(1,0,0,1,387.297,503)" >
+				<tspan x="0" y="15" class="txt6">Lorem ipsum dolor sit amet, consect</tspan>
+				<tspan x="0" y="31.8" class="txt6">etur adipiscing elit. Aenea uismod bibendum laoreet. Proin gravida dolor sit amet lacus.</tspan>
+			</text>
+		</g>
+		<text id="Heading" style="transform: matrix(1,0,0,1,384.451,386.521)" >
+			<tspan x="0" y="0" class="txt7">Heading</tspan>
+		</text>
+	</g>
+	<g id="CONTENT1">
+		<path id="Prostokąt 18" class="shp8" d="M-572,188h1920v-466h-1920z" />
+		<text id="Lorem ipsum dolor sit amet, consect etur adipiscing elit." style="opacity: 0.6;transform: matrix(1,0,0,1,388.669,-164)" >
+			<tspan x="0" y="20" class="txt9">Lorem ipsum dolor sit amet, consect etur adipiscing elit.</tspan>
+		</text>
+		<text id="Heading" style="transform: matrix(1,0,0,1,387,-189)" >
+			<tspan x="0" y="0" class="txt10">Heading</tspan>
+		</text>
+		<g id="#1">
+			<path id="Prostokąt 17" class="shp3" d="M-127,128h330v-228h-330z" />
+			<path id="Kształt 1" class="shp11" d="M15.98 26C15.98 33.14 20.12 39.3 26.13 42.22L17.54 18.67C16.54 20.91 15.98 23.39 15.98 26ZM46.16 25.1C46.16 22.87 45.36 21.33 44.68 20.13C43.76 18.64 42.91 17.38 42.91 15.9C42.91 14.24 44.16 12.7 45.93 12.7C46.01 12.7 46.09 12.71 46.17 12.72C42.96 9.78 38.69 7.99 34 7.99C27.7 7.99 22.16 11.22 18.94 16.11C19.37 16.12 19.76 16.13 20.1 16.13C21.99 16.13 24.9 15.9 24.9 15.9C25.88 15.84 25.99 17.27 25.02 17.38C25.02 17.38 24.04 17.5 22.96 17.56L29.52 37.08L33.46 25.25L30.66 17.56C29.69 17.5 28.77 17.38 28.77 17.38C27.79 17.33 27.91 15.84 28.88 15.9C28.88 15.9 31.86 16.13 33.63 16.13C35.51 16.13 38.43 15.9 38.43 15.9C39.4 15.84 39.51 17.27 38.54 17.38C38.54 17.38 37.57 17.5 36.48 17.56L42.99 36.93L44.79 30.92C45.57 28.43 46.16 26.64 46.16 25.1ZM34.31 27.58L28.91 43.29C30.52 43.77 32.23 44.03 34 44.03C36.1 44.03 38.11 43.66 39.98 43C39.93 42.93 39.89 42.85 39.85 42.76L34.31 27.58ZM49.81 17.36C49.89 17.93 49.93 18.55 49.93 19.21C49.93 21.04 49.59 23.1 48.56 25.67L43.06 41.58C48.41 38.46 52.02 32.65 52.02 26C52.02 22.87 51.22 19.93 49.81 17.36ZM34 5C22.42 5 12.99 14.42 12.99 26C12.99 37.59 22.42 47.01 34 47.01C45.58 47.01 55 37.59 55 26C55 14.42 45.58 5 34 5ZM34 46.05C22.95 46.05 13.96 37.06 13.96 26C13.96 14.95 22.95 5.96 34 5.96C45.05 5.96 54.04 14.95 54.04 26C54.04 37.06 45.05 46.05 34 46.05Z" />
+			<text id="Heading" style="transform: matrix(1,0,0,1,38,-45)" >
+				<tspan x="0" y="0" class="txt5">Heading</tspan>
+			</text>
+			<text id="Lorem ipsum dolor sit amet." style="transform: matrix(1,0,0,1,38.297,-23)" >
+				<tspan x="0" y="15" class="txt6">Lorem ipsum dolor sit amet.</tspan>
+			</text>
+		</g>
+		<g id="#3">
+			<path id="Prostokąt 17" class="shp3" d="M573,128h330v-228h-330z" />
+			<text id="Ultra Mega Super Long  Heading" style="transform: matrix(1,0,0,1,738,-45)" >
+				<tspan x="0" y="0" class="txt5">Ultra Mega Super Long </tspan>
+				<tspan x="0" y="22.4" class="txt5">Heading</tspan>
+			</text>
+			<text id="Lorem ipsum dolor sit amet, consect etur adipiscing elit. Aenea" style="transform: matrix(1,0,0,1,738.297,5)" >
+				<tspan x="0" y="15" class="txt6">Lorem ipsum dolor sit amet, consect</tspan>
+				<tspan x="0" y="31.8" class="txt6">etur adipiscing elit. Aenea uismod bibendum laoreet. Lorem ipsum dolor sit amet</tspan>
+			</text>
+		</g>
+		<g id="#2">
+			<path id="Prostokąt 17" class="shp3" d="M222,128h330v-228h-330z" />
+			<text id="Heading" style="transform: matrix(1,0,0,1,387,-45)" >
+				<tspan x="0" y="0" class="txt5">Heading</tspan>
+			</text>
+			<text id="Lorem ipsum dolor sit amet, consect etur adipiscing elit. Aenea" style="transform: matrix(1,0,0,1,387.297,-23)" >
+				<tspan x="0" y="15" class="txt6">Lorem ipsum dolor sit amet, consect</tspan>
+				<tspan x="0" y="31.8" class="txt6">etur adipiscing elit. Aenea uismod bibendum laoreet. Proin gravida dolor sit amet lacus.</tspan>
+			</text>
+		</g>
+		<path id="Ellipse 1" class="shp12" d="M373,187c0,8.28 6.72,15 15,15c8.28,0 15,-6.72 15,-15c0,-8.28 -6.72,-15 -15,-15c-8.28,0 -15,6.72 -15,15z" />
+	</g>
+	<g id="TOP">
+		<g id="biala belka_80 kopia">
+			<g id="logo">
+				<use id="Inteligentny obiekt wektorowy kopia 2" href="#img2" transform="matrix(0.601,0,0,0.606,-198,-339)"/>
+			</g>
+		</g>
+	</g>
+</svg>
