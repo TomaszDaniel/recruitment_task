@@ -9,7 +9,13 @@
     margin: 0 auto;
 }
 
-nav{
+.nav,
+.blue_section,
+.white_section{
+    max-width: 1920px;
+}
+
+.nav{
     display: flex;
     align-items: center;
     text-align: left;
@@ -22,22 +28,6 @@ nav{
     background-color:#215398;
     color: #ffffff;
 }
-
-.main_heading{
-    padding-top: 50px;
-    font-size: 40px;
-    letter-spacing: -1px;
-    line-height: 52px;
-    font-weight: 400;
-    text-align: center;
-}
-.main_paragraph{
-    padding: 35px 0;
-    font-size: 20px;
-    line-height: 32px;
-    font-weight: 300;
-    text-align: center;
-} 
 
 .blue_section::after{
     content: "";
@@ -54,39 +44,91 @@ nav{
 .white_section{
     height: 527px;
     background-color: white;
-    .main_paragraph{  
-        color: #2d3236;
-    } 
+    color: #2d3236;
     .sub_heading{
         padding: 20px 0;
         font-size: 30px;
         letter-spacing: 1px;
-        line-height: 28px;
-        color: #2d3236;
+        line-height: 28px;   
         font-weight: 400;
         text-align: center;
     }
 }
 
-.article_wrapper{
+.section_heading{
+    padding-top: 50px;
+    font-size: 40px;
+    letter-spacing: -1px;
+    line-height: 52px;
+    font-weight: 400;
+    text-align: center;
+}
+.section_paragraph{
+    padding: 35px 0;
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 300;
+    text-align: center;
+    opacity: .7;
+} 
+
+.ipsum_article_wrapper{
     display:flex;
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 35px 0;
-    // ustawic padding boczny media queries
 } 
 
-article{
+.ipsum_article{
         width: 332px;
         min-height: 229px;
         margin-bottom: 50px;
         text-align: center;
-        color: #000000;
         background-color: #ffffff;
-        h3,p,img{
-            padding: 25px 40px 5px;
+        color: #2d3236;
+        .ipsum_article_heading,
+        .ipsum_article_paragraph,
+        .ipsum_article_img{
+            padding: 25px 27px 5px;
         }
-        img{
+        .ipsum_article_heading{
+            font-size: 20px;
+            line-height: 28px;
+        }
+        .ipsum_article_paragraph{
+            padding-top: 10px;
+            font-size: 15px;
+            line-height: 25px;
+            color: #808080;
+        }
+        .ipsum_article_img{
+            padding-top: 10px;
             padding-bottom: 15px;
         }
     }
+
+    // MEDIA QUERIES
+
+@media (max-width: 1150px) {
+    .ipsum_article_wrapper{
+        padding: 35px 50px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .ipsum_article_wrapper{
+        padding: 35px 0;
+    }
+}
+
+@media (max-width: 820px) {
+    .ipsum_article_wrapper{
+       padding: 35px 40px;
+    }
+}
+
+@media (max-width: 500px) {
+    .ipsum_article_wrapper{
+        padding: 35px 0;
+    }
+}
